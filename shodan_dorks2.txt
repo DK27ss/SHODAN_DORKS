@@ -74,6 +74,122 @@ Redirecting sencha port:9000 (Buffalo TeraStation NAS Drives)
 "\x08_airplay" port:5353 (Apple AirPlay Receivers)
 title:"OctoPrint" -title:"Login" http.favicon.hash:1307375944 (OctoPrint 3D Printer Controllers)
 
+############################################ ACCESS POINT
+
+country:ru product:"OpenVPN Access Server"
+country:ru product:"Tableau Server"
+country:ru product:"Authentik"
+country:ru product:"WildFly"
+country:ru product:"VMware ESXi"
+country:ru product:"Kerio Connect webmail httpd"
+country:ru product:"Jellyfin" (films)
+country:ru product:"Emby Media Server" (films)
+country:ru product:"SuiteCRM"
+country:ru product:"3CX Phone System Management Console"
+country:ru product:"mini_httpd"
+country:ru product:"Jupyter Server"
+country:ru product:"Fortinet FortiGate"
+country:ru product:"Netdata"
+country:ru product:"Ivanti Endpoint Manager Mobile (EPMM)"
+country:ru product:"ASUS Wireless Router"
+country:ru product:"Metabase"
+country:ru product:"ownCloud" 200
+country:ru product:"BigIP" 200
+country:ru product:"Connectra Check Point Web Security httpd" 200
+country:ru product:"Kerio Connect Webmail" 200
+country:ru product:"Apache Airflow" 200
+country:ru product:"ASUS AiCloud"
+country:ru product:"InfluxDB" 200
+country:ru product:"Grafana (Enterprise)" 200
+country:ru product:"Grafana (Open Source)" 200
+country:ru product:"gSOAP soap" 200
+country:ru product:"Kestrel"
+country:ru product:"Cisco ASA SSL VPN" 200
+country:ru product:"Apache Tomcat/Coyote JSP engine" 200
+country:ru product:"Windows 2003 Kerberos"
+country:ru product:"OpenVPN Access Server CWS" 200
+country:ru product:"OpenVPN" 200
+country:ru product:"Kyocera Printer Panel" 200
+country:ru product:"Docker Registry HTTP API" 200
+country:ru product:"HP iLO" 200
+country:ru product:"Outlook Web App" 200
+country:ru product:"Tengine" 200
+country:ru product:"Boa Web Server" 200
+country:ru product:"Elastic" 200
+country:ru product:"vsftpd"
+country:ru product:"WHM" 200 (cpanel WHM)
+country:ru product:"cPanel" 200
+country:ru product:"QNAP" 200
+country:ru product:"Node.js" 200
+country:ru product:"Webmin" 200
+country:ru product:"Nextcloud" 200
+country:ru product:"Check Point SVN foundation httpd" 200
+country:ru product:"Jetty" 200
+country:ru product:"lighttpd" 200
+country:ru product:"Apache Tomcat" 200
+country:ru product:"MinIO Server" 200
+country:ru product:"GitLab Self-Managed" 200
+country:ru product:"ClickHouse" 200
+country:ru product:"Portainer" 200
+country:ru product:"Home Assistant" 200
+country:ru product:"Microsoft HTTPAPI httpd" 200
+country:ru product:"CloudFlare" 200
+country:ru product:"Kittenx" 200
+country:ru product:"AkamaiGHost" 200
+country:ru product:"DDoS-Guard" 200
+country:ru product:"Microsoft IIS httpd" 200
+country:ru product:"Apache httpd" 200
+country:ru product:"OpenResty" 200
+country:ru product:"nginx" 200 "Space"
+country:ru product:"nginx" 200 "Bank"
+country:ru product:"nginx" 200 "Financial"
+country:ru product:"nginx" 200 "Gov"
+country:ru product:"nginx" 200 "Army"
+
+############################################ VM CLUSTER
+
+http.title:"pve"
+http.title:"Proxmox Virtual Environment"
+
+############################################ SSH
+
+country:ru product:"OpenSSH"
+country:ru product:"OpenSSH" version:"6.7"
+country:ru product:"OpenSSH" version:"4.5p1"
+country:ru product:"OpenSSH" version:"7.1"
+country:ru product:"OpenSSH" version:"7.9p1"
+country:ru product:"OpenSSH" version:"5.9"
+country:ru product:"OpenSSH" version:"5.5"
+country:ru product:"OpenSSH" version:"4.1"
+
+############################################ RDP
+
+country:ru product:"Remote Desktop Protocol"
+country:ru product:"Remote Desktop Protocol" has_screenshot:true
+country:ru product:"Remote Desktop Protocol" has_screenshot:true "Admin"
+country:ru product:"Remote Desktop Protocol" has_screenshot:true "Private"
+
+############################################ FTP
+
+country:ru product:"ProFTPD or KnFTPD"
+country:ru product:"Pure-FTPd"
+
+############################################ SQL DATABASES
+
+country:ru product:"MS-SQL Server 2019 GDR"
+country:ru product:"Elastichoney"
+country:ru product:"MySQL X Protocol"
+country:ru product:"MongoDB"
+country:ru product:"MariaDB"
+country:ru product:"PostgreSQL"
+country:ru product:"MySQL"
+
+############################################ CAM
+
+country:ru product:"Hikvision IP Camera" 200
+
+############################################ DIRECTORY DATABASES
+
 http.html:"phpmyadmin" http.title:"Index of /" http.html:"2023-09"
 http.html:"docx" http.title:"Index of /" http.html:"2023-09"
 http.title:"Index of /" http.html:"2024" http.html:".pdf"
@@ -152,23 +268,3 @@ UNC1549 - CLOUD C2 SERVER : 158.255.74[.]25 (IRAN, ISLAMIC REPUBLIC OF, Tehran, 
 OPERATION EN POTENTIEL LIEN AVEC CGRI (Corps des gardiens de la révolution islamique)
 
 ############################################ RU ##
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
