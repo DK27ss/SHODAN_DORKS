@@ -145,6 +145,9 @@ country:ru product:"nginx" 200 "Bank"
 country:ru product:"nginx" 200 "Financial"
 country:ru product:"nginx" 200 "Gov"
 country:ru product:"nginx" 200 "Army"
+country:ru product:"Kibana" 200
+country:ru http.favicon.hash:902188936 200
+country:ru "QNAP VS-"
 
 ############################################ VM CLUSTER
 
@@ -192,7 +195,7 @@ country:ru product:"Hikvision IP Camera" 200
 
 http.html:"phpmyadmin" http.title:"Index of /" http.html:"2023-09"
 http.html:"docx" http.title:"Index of /" http.html:"2023-09"
-http.title:"Index of /" http.html:"2024" http.html:".pdf"
+http.title:"Index of /" http.html:"2025" http.html:".pdf"
 http.title:"Index of /" http.html:"2023"
 http.title:"Index of /" http.html:".pem"
 http.title:"Index of /" http.html:".env"
@@ -263,11 +266,16 @@ cloud.region:"me-jeddah-1" product:"Tableau Server"
 ############################################ IR ##
 
 UNC1549 - CLOUD C2 SERVER : 158.255.74[.]25 (IRAN, ISLAMIC REPUBLIC OF, Tehran, 1966763464, No 2, 35th west st, saadat abaad)
+(sous domaines Azure AD utilisées pour le C2)
+
+OPERATION EN POTENTIEL LIEN AVEC CGRI (Corps des gardiens de la révolution islamique)
+
+############################################
 
 country:ua Android product:"DD-WRT milli_httpd"
 country:ua http.html:Sky
 http.favicon.hash:252728887 country:ua http.component:"Prototype"
-
+http.favicon.hash:-2077284226
 
 
 
@@ -701,213 +709,213 @@ http.favicon.hash:1017650009
 http.favicon.hash:1052926265
 http.favicon.hash:106844876
 http.favicon.hash:-1074357885
-http.favicon.hash:1090061843
-http.favicon.hash:1099097618
+http.favicon.hash:1090061843 // WebTitan CLOUD
+http.favicon.hash:1099097618 // Squidex Headless CMS
 http.favicon.hash:1099370896
 http.favicon.hash:-1101206929
 http.favicon.hash:"-1105083093"
 http.favicon.hash:-1117549627
-http.favicon.hash:-1127895693
+http.favicon.hash:-1127895693 // Zuul
 http.favicon.hash:"-1148190371"
 http.favicon.hash:115295460
-http.favicon.hash:116323821
-http.favicon.hash:11794165
-http.favicon.hash:-1197926023
-http.favicon.hash:1198579728
-http.favicon.hash:1199592666
-http.favicon.hash:1212523028
+http.favicon.hash:116323821 // !!
+http.favicon.hash:11794165 // Apollo
+http.favicon.hash:-1197926023 // Business Process Management Services
+http.favicon.hash:1198579728 // DbGate
+http.favicon.hash:1199592666 // Structurizr
+http.favicon.hash:1212523028 // Repository
 http.favicon.hash:-1215318992
 "http.favicon.hash:-121681558"
 http.favicon.hash:-121681558
-http.favicon.hash:"-1217039701"
+http.favicon.hash:"-1217039701" // Qualitor Web
 http.favicon.hash:-1224668706
-http.favicon.hash:-1247684400
-http.favicon.hash:1249285083
-http.favicon.hash:-1250474341
-http.favicon.hash:-1258058404
-http.favicon.hash:-1261322577
-http.favicon.hash:1262005940
+http.favicon.hash:-1247684400 // Axigen WebMail
+http.favicon.hash:1249285083 // airCube
+http.favicon.hash:-1250474341 // Kerio WebMail
+http.favicon.hash:-1258058404 // Server GL
+http.favicon.hash:-1261322577 // Aqua Enterprise
+http.favicon.hash:1262005940 // Jamf
 http.favicon.hash:-1264095219
 http.favicon.hash:-1292923998,-1166125415
-http.favicon.hash:-1295577382
+http.favicon.hash:-1295577382 // Wildix
 http.favicon.hash:-1298131932
-http.favicon.hash:-130447705
+http.favicon.hash:-130447705 // Umami
 http.favicon.hash:1337147129
 "http.favicon.hash:-1341442175"
 http.favicon.hash:-1343712810
-http.favicon.hash:-1350437236
-http.favicon.hash:1354079303
+http.favicon.hash:-1350437236 // Wifi
+http.favicon.hash:1354079303 // Drone CI
 http.favicon.hash:1357234275
-http.favicon.hash:-1373456171
-http.favicon.hash:-1379982221
-http.favicon.hash:"1380908726"
+http.favicon.hash:-1373456171 // GitHub Enterprise
+http.favicon.hash:-1379982221 // Bamboo
+http.favicon.hash:"1380908726" // China
 http.favicon.hash:1380908726
-http.favicon.hash:-1381126564
+http.favicon.hash:-1381126564 // SoniwWall Global Management System
 http.favicon.hash:-1383463717
-http.favicon.hash:1386054408
-http.favicon.hash:1398055326
-http.favicon.hash:1410071322
-http.favicon.hash:-1414548363
+http.favicon.hash:1386054408 // Oryx
+http.favicon.hash:1398055326 // WSO2 Management Console
+http.favicon.hash:1410071322 // Portal
+http.favicon.hash:-1414548363 // LPA Remote Viewer
 http.favicon.hash:-1416464161
-http.favicon.hash:1460499495
+http.favicon.hash:1460499495 // Nagios Log Server
 http.favicon.hash:1464851260
 http.favicon.hash:-1465760059
-http.favicon.hash:-1478287554
-http.favicon.hash:-1495233116
+http.favicon.hash:-1478287554 // TeslaMate
+http.favicon.hash:-1495233116 // Ackee
 http.favicon.hash:-1496590341
-http.favicon.hash:1499876150
+http.favicon.hash:1499876150 // Expedition Project
 http.favicon.hash:-1499940355
-http.favicon.hash:-1529860313
-http.favicon.hash:1540720428
+http.favicon.hash:-1529860313 // Fleet of osquery
+http.favicon.hash:1540720428 // SysAid Help Desk Software
 http.favicon.hash:-1548359600
 http.favicon.hash:1550906681
-http.favicon.hash:1552322396
+http.favicon.hash:1552322396 // MatCat Files
 http.favicon.hash:-1575154882
 http.favicon.hash:-1595726841
-http.favicon.hash:1604363273
-http.favicon.hash:1606029165
-http.favicon.hash:-1606065523
-http.favicon.hash:-1649949475
-http.favicon.hash:1653394551
-http.favicon.hash:-1653412201
-http.favicon.hash:"-165631681"
+http.favicon.hash:1604363273 // HiveManager
+http.favicon.hash:1606029165 // Greenbone Security Assistant
+http.favicon.hash:-1606065523 // Cachet Dashboard
+http.favicon.hash:-1649949475 // Label Studio
+http.favicon.hash:1653394551 // Webcam
+http.favicon.hash:-1653412201 // Fortinet
+http.favicon.hash:"-165631681" // Gibbon
 http.favicon.hash:-1663319756
 http.favicon.hash:-1680052984
-http.favicon.hash:1691956220
+http.favicon.hash:1691956220 // XXLJOB Scheduling Center
 http.favicon.hash:1693580324
-http.favicon.hash:"-1706783005"
-http.favicon.hash:-1706783005
-http.favicon.hash:1749354953
+http.favicon.hash:"-1706783005" // atlantis
+http.favicon.hash:-1706783005 // atlantis
+http.favicon.hash:1749354953 // Pentaho User Console
 http.favicon.hash:176427349
-http.favicon.hash:-178113786
-http.favicon.hash:1781653957
-http.favicon.hash:-1797138069
+http.favicon.hash:-178113786 // authentik (livraison / cargaison)
+http.favicon.hash:1781653957 // LimeSurvey
+http.favicon.hash:-1797138069 // Cacti
 http.favicon.hash:1817615343
-http.favicon.hash:1828614783
+http.favicon.hash:1828614783 // Dynatrace
 http.favicon.hash:"-1830859634"
 http.favicon.hash:-186961397
-http.favicon.hash:-1893514038
-http.favicon.hash:1895809524
-http.favicon.hash:-1898583197
+http.favicon.hash:-1893514038 // RSSHub
+http.favicon.hash:1895809524 // Service Desk
+http.favicon.hash:-1898583197 // OpenVZ Web Panel 2.4
 http.favicon.hash:1903390397
 http.favicon.hash:-1950415971
-http.favicon.hash:-1951475503
+http.favicon.hash:-1951475503 // Huginn
 http.favicon.hash:1952289652
 http.favicon.hash:-1961736892
 http.favicon.hash:-1970367401
-http.favicon.hash:-2017596142
+http.favicon.hash:-2017596142 // NocoDB
 http.favicon.hash:-2017604252
-http.favicon.hash:2019488876
-http.favicon.hash:-2028554187
-http.favicon.hash:-2032163853
-http.favicon.hash:-2051052918
+http.favicon.hash:2019488876 // Webcam
+http.favicon.hash:-2028554187 // ZenML Dashboard
+http.favicon.hash:-2032163853 // Jorani
+http.favicon.hash:-2051052918 // Flowise Low Code LLM apps builder
 http.favicon.hash:2056442365
-"http.favicon.hash:206985584"
+"http.favicon.hash:206985584" // NocoDB
 http.favicon.hash:-2073748627 || http.favicon.hash:-1721140132
-http.favicon.hash:2099342476
-http.favicon.hash:2104916232
+http.favicon.hash:2099342476 // PKM
+http.favicon.hash:2104916232 // Horde Mail
 http.favicon.hash:"-211006074"
 http.favicon.hash:-211006074
-http.favicon.hash:-2115208104
-http.favicon.hash:2124459909
-http.favicon.hash:213144638
-http.favicon.hash:2134367771
-http.favicon.hash:-2144699833
-http.favicon.hash:-219625874
-"http.favicon.hash:-234335289"
-http.favicon.hash:"24048806"
+http.favicon.hash:-2115208104 // Bitrix24
+http.favicon.hash:2124459909 // HFS
+http.favicon.hash:213144638 // Proxmox
+http.favicon.hash:2134367771 // TimeKeeper Management
+http.favicon.hash:-2144699833 // Kasm
+http.favicon.hash:-219625874 // Bonobo Git Server
+"http.favicon.hash:-234335289" // WebMethods Integration Server
+http.favicon.hash:"24048806" // Apache Doris
 http.favicon.hash:24048806
 http.favicon.hash:-244067125
 http.favicon.hash:262502857
-http.favicon.hash:-266008933
-http.favicon.hash:-283003760
-http.favicon.hash:-286484075
+http.favicon.hash:-266008933 // SAP NetWeaver Application Server Java
+http.favicon.hash:-283003760 // GestSup
+http.favicon.hash:-286484075 // Open WebUI
 http.favicon.hash:305412257
-http.favicon.hash:321591353
+http.favicon.hash:321591353 // Node RED
 http.favicon.hash:-347188002
 http.favicon.hash:362091310
-http.favicon.hash:-374133142
-http.favicon.hash:-399298961
-http.favicon.hash:407286339
-http.favicon.hash:-417785140
-http.favicon.hash:-418614327
+http.favicon.hash:-374133142 // Flower
+http.favicon.hash:-399298961 // Maximo
+http.favicon.hash:407286339 // Open TSDB
+http.favicon.hash:-417785140 // Homer
+http.favicon.hash:-418614327 // Tiny Tiny RSS
 http.favicon.hash:419828698
-http.favicon.hash:431627549
+http.favicon.hash:431627549 // Asset Management
 http.favicon.hash:-43504595
-http.favicon.hash:439373620
+http.favicon.hash:439373620 // Swagger UI
 http.favicon.hash:440258421
-http.favicon.hash:-440644339
+http.favicon.hash:-440644339 // Zyxel USG
 http.favicon.hash:450899026
-http.favicon.hash:464587962
+http.favicon.hash:464587962 // Rancher
 http.favicon.hash:487145192
-http.favicon.hash:-50306417
-http.favicon.hash:-516760689
+http.favicon.hash:-50306417 // Command Center RX
+http.favicon.hash:-516760689 // InsightVM Security Console
 http.favicon.hash:523757057
 http.favicon.hash:538583492
-http.favicon.hash:540706145
+http.favicon.hash:540706145 // Photos gallery
 http.favicon.hash:557327884
 http.favicon.hash:-578216669
-http.favicon.hash:587330928
-http.favicon.hash:-594722214
+http.favicon.hash:587330928 // Apache Impala
+http.favicon.hash:-594722214 // Helm Dashboard
 http.favicon.hash:598296063
-http.favicon.hash:-601917817
-http.favicon.hash:-608690655
-http.favicon.hash:-629968763
+http.favicon.hash:-601917817 // Webcam
+http.favicon.hash:-608690655 // Unleash
+http.favicon.hash:-629968763 // Shell in A Box
 http.favicon.hash:-633512412
-http.favicon.hash:635899646
-http.favicon.hash:"-646322113"
-http.favicon.hash:-655683626
-http.favicon.hash:657337228
-http.favicon.hash:662709064
-http.favicon.hash:"-670975485"
-"http.favicon.hash:-697231354"
-http.favicon.hash:698624197
+http.favicon.hash:635899646 // SilverBack
+http.favicon.hash:"-646322113" // Cisco Integrated Management Controller WebUI
+http.favicon.hash:-655683626 // PRTG Network Monitor
+http.favicon.hash:657337228 // Harbor
+http.favicon.hash:662709064 // MantisBT
+http.favicon.hash:"-670975485" // Dashboard
+"http.favicon.hash:-697231354" // Ip cam
+http.favicon.hash:698624197 // Redash
 "http.favicon.hash:\"702863115\""
-http.favicon.hash:"702863115"
-http.favicon.hash:702863115clear
-http.favicon.hash:733091897
-http.favicon.hash:739801466
-http.favicon.hash:-741491222
-http.favicon.hash:-749942143
-http.favicon.hash:751911084
-"http.favicon.hash:762074255"
+http.favicon.hash:"702863115" // Landing page
+http.favicon.hash:702863115
+http.favicon.hash:733091897 // OpenMetadata
+http.favicon.hash:739801466 // Vision
+http.favicon.hash:-741491222 // Horde
+http.favicon.hash:-749942143 // Sensu
+http.favicon.hash:751911084 // ESET PROTECT
+"http.favicon.hash:762074255" // PM Router
 http.favicon.hash:762074255
-http.favicon.hash:781922099
-http.favicon.hash:786533217
+http.favicon.hash:781922099 // dcTrack - Operations
+http.favicon.hash:786533217 // OpenStack Dashboard
 http.favicon.hash:-800060828
-http.favicon.hash:-800551065
-http.favicon.hash:"801517258"
+http.favicon.hash:-800551065 // FortiClient Endpoint Management Server
+http.favicon.hash:"801517258" // 
 http.favicon.hash:-81573405
 http.favicon.hash:816588900
 http.favicon.hash:824580113
-http.favicon.hash:-82958153
-http.favicon.hash:-831756631
-http.favicon.hash:"-839356603"
-http.favicon.hash:-850502287
-http.favicon.hash:855432563
-"http.favicon.hash:868509217"
+http.favicon.hash:-82958153 // ConnectWise ScreenConnect
+http.favicon.hash:-831756631 // Workflow Automation
+http.favicon.hash:"-839356603" // Apigee
+http.favicon.hash:-850502287 // Buddy
+http.favicon.hash:855432563 // AKHQ
+"http.favicon.hash:868509217" // DW Spectrum
 http.favicon.hash:"871154672"
-http.favicon.hash:873381299
+http.favicon.hash:873381299 // Tenda Router
 http.favicon.hash:874152924
 http.favicon.hash:876876147
-http.favicon.hash:889652940
-http.favicon.hash:-902890504
-http.favicon.hash:-916902413
-http.favicon.hash:-919788577
-http.favicon.hash:932345713
+http.favicon.hash:889652940 // WebUI Panel
+http.favicon.hash:-902890504 
+http.favicon.hash:-916902413 // SSRPM Web Interface
+http.favicon.hash:-919788577 // Vault
+http.favicon.hash:932345713 // Targets
 http.favicon.hash:933976300
-http.favicon.hash:942678640
-http.favicon.hash:957255151
+http.favicon.hash:942678640 // Cloudmark Sender Intelligence
+http.favicon.hash:957255151 // SAS Logon Manager
 http.favicon.hash:965982073
-http.favicon.hash:967636089
-http.favicon.hash:969374472
-http.favicon.hash:-976853304
-http.favicon.hash:-977323269
+http.favicon.hash:967636089 // MobileIron System Manager
+http.favicon.hash:969374472 // RethinkDB Administration Console
+http.favicon.hash:-976853304 // LocalAPI 
+http.favicon.hash:-977323269 // Keys
 http.favicon.hash:981081715
-http.favicon.hash:983734701
-http.favicon.hash:988422585
-http.favicon.hash:989289239
-http.favicon.hash:999357577
+http.favicon.hash:983734701 // Password Management Client
+http.favicon.hash:988422585 // CapRover - Server Dashboard
+http.favicon.hash:989289239 // MOVEit Transfer
+http.favicon.hash:999357577 // IP CAM
 http.html:"4DACTION/"
 http.html:"74cms"
 http.html:"academy lms"
@@ -970,9 +978,9 @@ http.html:"Gradle Enterprise Build Cache Node"
 http.html:"H3C-SecPath-运维审计系统"
 http.html_hash:1015055567
 http.html_hash:1076109428
-http.html_hash:-14029177
+http.html_hash:-14029177 // Cisco
 http.html_hash:-1957161625
-http.html_hash:510586239
+http.html_hash:510586239 // China
 http.html:"HG532e"
 http.html:"hospital management system"
 http.html:"Hospital Management System"
@@ -2292,3 +2300,22 @@ X-Amz-Server-Side-Encryption
 "X-Powered-By: PHP"
 "X-Recruiting:"
 "X-TYPO3-Parsetime: 0ms"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
